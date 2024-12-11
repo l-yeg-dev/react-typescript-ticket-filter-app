@@ -1,0 +1,72 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "airline": {
+        "name": "Awesome Airlines",
+        "logo": "https://img.freepik.com/free-photo/view-3d-airplane-with-wings-engine_23-2151022244.jpg"
+      },
+      "departure": {
+        "time": "09:25",
+        "code": "WVO"
+      },
+      "arrival": {
+        "time": "11:45",
+        "code": "TLV"
+      },
+      "stops": 1,
+      "price": 32032
+    },
+    {
+      "id": "2",
+      "airline": {
+        "name": "Awesome Airlines",
+        "logo": "https://img.freepik.com/free-photo/view-3d-airplane-with-wings-engine_23-2151022244.jpg"
+      },
+      "departure": {
+        "time": "10:35",
+        "code": "WVO"
+      },
+      "arrival": {
+        "time": "12:34",
+        "code": "TLV"
+      },
+      "stops": 2,
+      "price": 32245
+    },
+    {
+      "id": "3",
+      "airline": {
+        "name": "Awesome Airlines",
+        "logo": "https://img.freepik.com/free-photo/view-3d-airplane-with-wings-engine_23-2151022244.jpg"
+      },
+      "departure": {
+        "time": "11:15",
+        "code": "WVO"
+      },
+      "arrival": {
+        "time": "15:40",
+        "code": "TLV"
+      },
+      "stops": 3,
+      "price": 31000
+    },
+    {
+      "id": "4",
+      "airline": {
+        "name": "Awesome Airlines",
+        "logo": "https://img.freepik.com/free-photo/view-3d-airplane-with-wings-engine_23-2151022244.jpg"
+      },
+      "departure": {
+        "time": "11:15",
+        "code": "WVO"
+      },
+      "arrival": {
+        "time": "15:40",
+        "code": "TLV"
+      },
+      "stops": 0,
+      "price": 30000
+    }
+  ]
+}
