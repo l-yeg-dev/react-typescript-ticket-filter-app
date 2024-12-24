@@ -9,6 +9,7 @@
   .ticket-header {
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
 
     img {
       width: 50px;
@@ -17,7 +18,8 @@
       height: auto;
     }
   }
-  .time {
+  .ticket-times {
+    padding-left: 8px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
